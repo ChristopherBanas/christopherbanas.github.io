@@ -54893,7 +54893,7 @@ return h},
 oo:function(){var s=0,r=P.af(t.zW),q,p=this,o
 var $async$oo=P.aa(function(a,b){if(a===1)return P.ac(b,r)
 while(true)switch(s){case 0:s=3
-return P.au(G.anu(P.v_("http://localhost:7071/standings")),$async$oo)
+return P.au(G.anu(P.v_("https://nba-function.azurewebsites.net/standings")),$async$oo)
 case 3:o=b
 q=p.Vf(J.aR(C.b7.FX(0,B.anm(U.alj(o.e).c.a.i(0,"charset")).dP(0,o.x),null),0))
 s=1
