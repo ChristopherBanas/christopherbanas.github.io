@@ -8093,12 +8093,13 @@ this.b=b
 this.c=c},
 MM:function MM(a){this.a=a},
 MJ:function MJ(){},
-rE:function rE(a,b,c,d,e){var _=this
+rE:function rE(a,b,c,d,e,f){var _=this
 _.e=a
-_.db=b
-_.dx=c
-_.y1=d
-_.a=e},
+_.cx=b
+_.db=c
+_.dx=d
+_.y1=e
+_.a=f},
 QR:function QR(a){this.a=a},
 QQ:function QQ(a){this.a=a},
 QO:function QO(a){this.a=a},
@@ -55361,7 +55362,7 @@ q=this.aT$
 if(q!=null)for(q=P.cw(q,q.r),r=H.m(q).c;q.q();)r.a(q.d).scX(0,s)
 this.bW()}}
 F.BU.prototype={
-F:function(a,b){return new U.rE(new Y.te(null),$.aio(),$.aim(),!1,null)}}
+F:function(a,b){return new U.rE(new Y.te(null),"Flutter NBA",$.aio(),$.aim(),!1,null)}}
 T.ts.prototype={
 aj:function(){return new T.I7(C.l)},
 Ib:function(){return this.c.$0()}}
@@ -55945,7 +55946,7 @@ n=q.dx
 p=n==null?p:n
 if(p==null)p=X.EW(m,C.a6,m,m,m,m,m)
 $.abe().toString
-s=new S.lz(r,m,q.e,C.uy,m,m,m,m,s,m,m,m,m,q.gXu(),"",m,o,p,C.kg,m,m,m,m,m,C.ix,!1,!1,!1,!1,!1,m,m,!1,m)
+s=new S.lz(r,m,q.e,C.uy,m,m,m,m,s,m,m,m,m,q.gXu(),q.cx,m,o,p,C.kg,m,m,m,m,m,C.ix,!1,!1,!1,!1,!1,m,m,!1,m)
 return s},
 $S:356}
 S.iu.prototype={}
