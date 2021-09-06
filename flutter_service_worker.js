@@ -6,14 +6,14 @@ const RESOURCES = {
   "version.json": "43fc1c4591bd97bec5ba3498889532ed",
 "splash/style.css": "13bfafe90a8e21782f8a686e4dddf901",
 "favicon.ico": "5ca6dc4d4c70340fa2bb5dabb6d5dea9",
-"index.html": "b533354db927b73bff1a671575ac6918",
-"/": "b533354db927b73bff1a671575ac6918",
-"main.dart.js": "3ef8c8d2c39f2084339e187e88121997",
+"index.html": "bc9a9458593b7445b43118a360ede2c3",
+"/": "bc9a9458593b7445b43118a360ede2c3",
+"main.dart.js": "c07e487dac667e3946c331eb7ba4180e",
 "icons/Icon-192.png": "17754c5bc8e62f80c38a8ac9eb893449",
 "icons/Icon-512.png": "5f5ccc05fb77a47e8ab079d71973f8a2",
 "manifest.json": "c5af8243754cfb18ba6018091a8eea06",
 "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
-"assets/NOTICES": "ba65c9c7722bfaba1c5f9c101c18a8b9",
+"assets/NOTICES": "481b87671b5a27b17597b8535a81922d",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1"
 };
