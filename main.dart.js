@@ -62781,7 +62781,7 @@ k=O.ail(O.h0(r,new K.a2d(),new K.a2e(),r,10,r,r,!0,r),O.h0(r,new K.a2f(),new K.a
 l=Y.X2(C.jI,r)
 s=this.x
 if(s==null)s=H.e(H.p("showingBarGroups"))
-return M.ap(r,new T.oO(1.5,M.ap(r,T.cr(H.a([C.wz,C.zl,n,C.wA,T.ju(new X.u3(E.ahz(r,r,r,s,m,l,O.aik(r,r,r,r,r,r,r,!0,r),r,60,r,r,k),C.am,C.cG,r,r),1),C.JK],t.p),C.c9,C.K,C.z),C.k,r,r,new S.bL(o.z,r,new F.bg(p,p,p,p),q,r,r,r,C.M),r,r,r,r,r,r,r,r),r),C.k,r,r,r,r,r,r,C.kQ,r,r,r,r)}}
+return M.ap(r,new T.oO(0.75,M.ap(r,T.cr(H.a([C.wz,C.zl,n,C.wA,T.ju(new X.u3(E.ahz(r,r,r,s,m,l,O.aik(r,r,r,r,r,r,r,!0,r),r,60,r,r,k),C.am,C.cG,r,r),1),C.JK],t.p),C.c9,C.K,C.z),C.k,r,r,new S.bL(o.z,r,new F.bg(p,p,p,p),q,r,r,r,C.M),r,r,r,r,r,r,r,r),r),C.k,r,r,r,r,r,r,C.kQ,r,r,r,r)}}
 K.a2d.prototype={
 $2(a,b){return C.fV},
 $S:48}
@@ -62843,7 +62843,7 @@ ar(){return new L.JP(C.o)}}
 L.JP.prototype={
 aP(){this.bf()},
 D(a,b){var s=null,r=K.u6(new P.aJ(18,18)),q=new Y.aD(C.m,1.5,C.q),p=K.P(b),o=t.p
-return M.ap(s,new T.oO(1.5,M.ap(s,T.hQ(C.b7,H.a([T.cr(H.a([C.wz,C.NB,this.a.c,C.wA,T.ju(new T.bo(C.CC,new L.Nu(s),s),1),C.JJ],o),C.c9,C.K,C.z)],o),C.aP),C.k,s,s,new S.bL(p.z,s,new F.bg(q,q,q,q),r,s,s,s,C.M),s,s,s,s,s,s,s,s),s),C.k,s,s,s,s,s,s,C.kQ,s,s,s,s)}}
+return M.ap(s,new T.oO(0.75,M.ap(s,T.hQ(C.b7,H.a([T.cr(H.a([C.wz,C.NB,this.a.c,C.wA,T.ju(new T.bo(C.CC,new L.Nu(s),s),1),C.JJ],o),C.c9,C.K,C.z)],o),C.aP),C.k,s,s,new S.bL(p.z,s,new F.bg(q,q,q,q),r,s,s,s,C.M),s,s,s,s,s,s,s,s),s),C.k,s,s,s,s,s,s,C.kQ,s,s,s,s)}}
 F.nz.prototype={
 D(a,b){var s=null,r=this.d?M.ap(s,s,C.k,s,s,s,s,s,s,s,s,s,s,s):new A.uh(!1,s)
 return T.cr(H.a([this.c,r],t.p),C.y,C.K,C.z)}}
